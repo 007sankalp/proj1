@@ -9,3 +9,5 @@ print (msg)
 # create student object and call the method
 
 #create one more student object and call the method
+
+#call fucntion from fibo module and print the series
