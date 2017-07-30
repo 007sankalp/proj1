@@ -1,12 +1,8 @@
 print ("Good Morning to All")
 
-
-msg="Good evenning  to all"
+msg="Good night  to all"
 
 print (msg)
-
-print ("good night to all")
-
 
 #call the fucntion from date.py and print the date
 
