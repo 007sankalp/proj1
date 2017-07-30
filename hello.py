@@ -11,3 +11,5 @@ print (msg)
 #create one more student object and call the method
 
 #call fucntion from fibo module and print the series
+
+#every number on a new line
